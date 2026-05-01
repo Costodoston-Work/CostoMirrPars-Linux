@@ -1,0 +1,17 @@
+The project uses third-party libraries:
+
+distro
+LICENSE: Apache Software License (Apache License, Version 2.0)
+PyPi: https://pypi.org/project/distro
+
+rich
+LICENSE: MIT License (MIT)
+PyPi: https://pypi.org/project/rich
+
+requests
+LICENSE: Apache Software License (Apache-2.0)
+PyPi: https://pypi.org/project/requests
+
+pyperclip
+LICENSE: BSD License (BSD)
+PyPi: https://pypi.org/project/pyperclip/

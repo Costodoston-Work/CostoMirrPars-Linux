@@ -1,0 +1,4 @@
+distro
+rich
+requests
+pyperclip
