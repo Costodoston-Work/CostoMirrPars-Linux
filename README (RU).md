@@ -7,8 +7,7 @@
 
 <p>
 
-  <img src="https://img.shields.io/github/v/release/Costodoston-Work/CostoMirrPars-Linux?" alt="GitHub Release">
-  <a href="https://github.com/Costodoston-Work/CostoMirrPars-Linux"><img src="https://img.shields.io/github/languages/code-size/Costodoston-Work/CostoMirrPars-Linux" alt="GitHub code"/></a>
+  <img src="https://img.shields.io/github/v/release/Costodoston-Work/CostoMirrPars-Linux" alt="GitHub Release">
   <img src="https://img.shields.io/badge/license-GPL--3.0-006600" alt="GPL-3.0">
 </p>
 </div>
